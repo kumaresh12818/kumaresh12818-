@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech student in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Strongly focused on building intelligent, data-driven solutions through hands-on projects, coding practice, and continuous learning. Actively interested in collaborating on AI/ML and analytics-oriented projects, applying algorithms to real-world problems, and staying updated with emerging technologies and industry best practices.
+BTech Computer Science Engineering (AI & ML) student with a strong interest in building data-driven and intelligent solutions. Actively developing skills through hands-on projects, coding, and continuous learning, with a focus on real-world problem solving and emerging technologies.
 
 
 ## 🌐 Socials:
