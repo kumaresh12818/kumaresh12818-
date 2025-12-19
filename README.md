@@ -1,6 +1,5 @@
-# kumaresh12818-# 💫 About Me:
-B.Tech (CSE-AIML) Student 🎓 | Enthusiast in AI,ML, Data Science & Web Dev 🚀 |
-
+💫 About Me:
+BTech student in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Strongly focused on building intelligent, data-driven solutions through hands-on projects, coding practice, and continuous learning. Actively interested in collaborating on AI/ML and analytics-oriented projects, applying algorithms to real-world problems, and staying updated with emerging technologies and industry best practices.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumaresh-pradhan-352a01329) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KumareshPr32934) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumareshpradhan4@gmail.com) 
